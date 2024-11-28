@@ -1,0 +1,2 @@
+# ai
+Blogs on AI
