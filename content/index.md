@@ -1,29 +1,36 @@
 ---
-title: "Welcome to My Quartz Blog"
-description: "A collection of my thoughts, notes, and writings."
-date: 2024-11-27
+title: Prateek's Blog
+subtitle: Exploring the Intricate Landscapes of Brain and Behavior
+aliases: 
+  - Home
+  - Landing Page
 ---
 
-# Recent Posts
+## About Me
 
-Here are some of my latest writings:
+I'm a Student passionate about learning Math, AI,  Neuroscience and Psychology. My work explores the intricate connections between brain function, cognitive processes, and human experience.
 
-<Component.RecentNotes { title: "Recent Posts", limit: 5, showTags: true, linkToMore: "/tags" } />
+## Research Interests
 
-# Categories
+- Neuroplasticity
+- Cognitive Neuroscience
+- Psychological Resilience
+- Technology and Mental Health
 
-Explore my content by category:
+## Recent Posts
 
-- [[posts/]]
-- [[projects/]]
-- [[notes/]]
+```query
+path:posts/
+sort by date desc
+limit 5
+```
 
-# About
+## Notes
 
-Welcome to my blog! Here, I share insights on various topics ranging from technology to personal development. Feel free to browse through my posts and connect with me.
+These are my ongoing explorations at the intersection of mind and brain. Each note represents a fragment of understanding, a snapshot of ongoing research and reflection.
 
-## Contact
+## Navigation
 
-You can reach me at [your-email@example.com].
-
-
+- [[posts|All Posts]]
+- [[research|Research Projects]]
+- [[resources|Useful Resources]]
