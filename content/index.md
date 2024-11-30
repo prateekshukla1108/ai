@@ -31,6 +31,6 @@ These are my ongoing explorations at the intersection of mind and brain. Each no
 
 ## Navigation
 
-- [[posts|All Posts]]
+- [[content|posts]]
 - [[research|Research Projects]]
 - [[resources|Useful Resources]]
