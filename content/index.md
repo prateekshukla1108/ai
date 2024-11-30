@@ -20,7 +20,7 @@ I'm a Student passionate about learning Math, AI,  Neuroscience and Psychology. 
 ## Recent Posts
 
 ```query
-path:posts/
+path:docs/blogs
 sort by date desc
 limit 5
 ```
@@ -31,6 +31,6 @@ These are my ongoing explorations at the intersection of mind and brain. Each no
 
 ## Navigation
 
-- [[content|posts]]
+- [[docs|blogs]]
 - [[research|Research Projects]]
 - [[resources|Useful Resources]]
