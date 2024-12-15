@@ -3,7 +3,7 @@ title: Psychology AI and Neuroscience
 description: Important questions to ask about Psychology, AI and Neuroscience 
 date: 2024-12-15
 ---
-
+Also see [[Neuroscience and AI]]
 
 # A Personal Journey through Neuroscience and Psychology
 

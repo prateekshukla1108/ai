@@ -17,14 +17,11 @@ I'm a Student passionate about learning Math, AI,  Neuroscience and Psychology. 
 - Psychological Resilience
 - Technology and Mental Health
 
-## Recent Posts
+## Latest blogs
 
-```query
-path:docs/blogs
-sort by date desc
-limit 5
-```
+[[PsyAI]] - My views on Psychology, AI and Neuroscience
 
+[[Neuroscience and AI]] - The basic introduction to Neuroscience from its AI facet
 ## Notes
 
 These are my ongoing explorations at the intersection of mind and brain. Each note represents a fragment of understanding, a snapshot of ongoing research and reflection.
