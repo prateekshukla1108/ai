@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Prateek's Mindscape",
-    pageTitleSuffix: "A blog full of Neuroscience, Psychology and Game theory",
+    pageTitleSuffix: "Neural networks are cool",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -25,7 +25,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        body: "SF Pro Display",
         code: "IBM Plex Mono",
       },
       colors: {
